@@ -1,0 +1,24 @@
+.container-small-card{
+    width: 600px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: row;
+}
+
+.small-card-title {
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.small-card-title .saibamais p{
+    margin-top: 1.5rem;
+    font-size: 15px;
+    background-color: rgb(16, 30, 75);
+    border-radius: 0.2rem ;
+    text-align: center;
+}
+
+.linha-small-card{
+    margin-top: 15px;
+}

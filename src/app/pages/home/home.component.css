@@ -1,0 +1,19 @@
+.container-articles{
+    margin-top: 30px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+
+/* adicionar reponsivo ***********   */
+@media screen and (max-width:700px){
+    .container-articles{
+        margin-top: 30px;
+        display: flex;
+        
+        flex-direction: column;     
+    } 
+}

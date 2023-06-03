@@ -1,0 +1,18 @@
+.container-menu-title{
+    background-image:url(https://i.pinimg.com/originals/9b/5e/9c/9b5e9c327ae7eb4bd1e3d37c4a3d6588.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-menu-title >h1{
+    background-color: transparent;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.container-menu-title >hr {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
