@@ -1,6 +1,7 @@
 # AngularBlog
 
-![image](https://github.com/abrendacorrea/angular-blog/assets/129328112/1bc21128-3407-4b7d-801b-8ce56354bce3)
+![image](https://github.com/abrendacorrea/angular-blog/assets/129328112/ec0ee363-3b19-4ad6-a348-65926bfc4366)
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
